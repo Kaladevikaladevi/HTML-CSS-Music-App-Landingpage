@@ -1,0 +1,552 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.img-1 {
+    background-color: aliceblue;
+    height: 800px;
+    width: 1343px;
+}
+
+.firh1 {
+    color:  rgb(3, 66, 66);
+    text-align: center;
+    padding-top: 100px;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.firpara {
+    color:  rgb(3, 66, 66);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.but1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    margin-left: 620px;
+    margin-top: 20px;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 15px;
+    border-color: rgba(240, 248, 255, 0);
+    border-radius: 3px;
+
+}
+.bigcir{
+    height: 400px;
+    width: 350px;
+    background-color: rgb(255, 166, 0);
+    border-radius: 350px;
+    margin-top: -17px;
+    margin-left: 480px;
+    padding-left: 60px;
+}
+.firpic{
+margin-left: -240px;
+width: 700px;
+}
+.img1dot1{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(255, 208, 0);
+    border-radius: 350px;
+    margin-top: -140px;
+   margin-left: 400px;
+}
+.img1dot2{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(255, 231, 254);
+    border-radius: 350px;
+    padding-right: 50px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    margin-top: -0px;
+   margin-left: 860px;
+}
+.img1dot3{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(3, 66, 66);
+    border-radius: 350px;
+    margin-top: -330px;
+   margin-left: 880px;
+}
+
+.img-2 {
+    background-color: rgb(3, 66, 66);
+    height: 650px;
+    width: 1343px;
+}
+
+.left {
+    height: 250px;
+    width: 500px;
+    background-color: rgba(137, 43, 226, 0);
+    margin-left: 100px;
+    padding-top: 60px;
+}
+
+h2 {
+    color: rgb(255, 230, 0);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para-1 {
+    color: rgb(255, 248, 225);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para-2 {
+    color: rgb(255, 248, 225);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.img-dot{
+    height: 300px;
+    width: 700px;
+    background-color: rgba(7, 7, 138, 0);
+}
+.page2dot1{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(255, 208, 0);
+    border-radius: 350px;
+    margin-top: -180px;
+   margin-left: 130px;
+}
+.page2dot2{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 350px;
+    margin-top: -220px;
+    margin-left: 470px;
+    padding-top: 50px;
+}
+.forleftright {
+    display: flex;
+    justify-content: space-between;
+}
+
+.your {
+    color: aliceblue;
+    text-align: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.firico {
+    height: 80px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    font-size: 60px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-top: 15px;
+}
+
+.belowpara {
+    display: flex;
+    justify-content: space-between;
+}
+
+.belowpara-1 {
+    color: aliceblue;
+    height: 40px;
+    width: 200px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.secico {
+    height: 80px;
+    width: 90px;
+    background-color: aliceblue;
+    font-size: 60px;
+    border-radius: 50px;
+    margin-top: 50px;
+    padding-top: 15px;
+}
+
+.belowpara-2 {
+    color: aliceblue;
+    height: 40px;
+    width: 200px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.thrico {
+    height: 80px;
+    width: 90px;
+    background-color: aliceblue;
+    font-size: 60px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-right: 150px;
+    padding-top: 15px;
+}
+
+.belowpara-3 {
+    color: aliceblue;
+    height: 40px;
+    width: 200px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 20px;
+    margin-right: 90px;
+}
+
+.img-3 {
+
+    height: 400px;
+    width: 1343px;
+}
+.pag3-1dot{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 90, 90);
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    border-radius: 40px;
+   margin-left: -580px;
+   margin-top: 50px;
+}
+.pag32dot{
+    height: 90px;
+    width: 50px;
+    background-color: rgb(221, 253, 253);
+    border-radius: 540px;
+    margin-left: -300px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+.pag33dot{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 196, 0);
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    border-radius: 40px;
+    margin-top: -130px;
+}
+
+.page-3leftimg {
+    float: left;
+    height: 300px;
+    width: 350px;
+    border-radius: 200px;
+    background-color:  rgb(236, 203, 14);
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    padding-top: 60px;
+    margin-left: 160px;
+    margin-top: 30px;
+
+}
+
+.page-3leftbox {
+    float: right;
+    height: 250px;
+    width: 450px;
+    background-color: rgba(240, 248, 255, 0);
+    padding-top: 60px;
+    margin-right: 160px;
+}
+
+.page-3leftboxpara {
+    color: rgb(0, 90, 90);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    margin-top: 30px;
+}
+
+.but-2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    margin-right: 0px;
+    margin-top: 30px;
+    float: right;
+    border-radius: 3px;
+    border-color: rgba(240, 248, 255, 0);
+    background-color: rgb(0, 80, 80);
+    color: aliceblue;
+}
+
+
+.img-4 {
+    background-color: rgb(3, 66, 66);
+    height: 400px;
+    width: 1343px;
+}
+
+.headcircle {
+    height: 70px;
+    width: 70px;
+    background-color: rgb(236, 203, 14);
+    border-radius: 40px;
+    margin-left: 523px;
+    margin-top: 40px;
+}
+
+.page4h1 {
+    color: aliceblue;
+    text-align: center;
+    margin-top: -49px;
+}
+
+.page4paras {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.parabox1 {
+    color: aliceblue;
+    height: 200px;
+    width: 350px;
+    background-color: rgba(137, 43, 226, 0);
+    text-align: right;
+    margin-top: 100px;
+}
+
+.parabox2 {
+    color: aliceblue;
+    height: 200px;
+    width: 350px;
+    background-color: rgba(137, 43, 226, 0);
+    text-align: right;
+    margin-top: 100px;
+}
+
+.parabox3 {
+    color: aliceblue;
+    height: 200px;
+    width: 350px;
+    background-color: rgba(137, 43, 226, 0);
+    text-align: right;
+    margin-top: 100px;
+}
+
+.CEO {
+    color: rgb(236, 203, 14);
+}
+
+
+
+
+.img-5 {
+    
+    height: 650px;
+    width: 1343px;
+}
+
+.pricing {
+    color: rgb(3, 66, 66);
+    padding-left: 600px;
+    padding-top: 50px;
+}
+
+.page5boxs {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+
+}
+
+.firbox {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(0, 80, 80)
+
+}
+
+.secbox {
+    background-color: rgb(3, 66, 66);
+    height: 500px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(0, 80, 80)
+}
+
+.thrbox {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(0, 80, 80)
+}
+
+.insidebox-1 {
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.insidebox-2 {
+    color: aliceblue;
+}
+
+.for9used {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nine {
+    color: rgb(3, 66, 66);
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 90px;
+    margin-top: 30px;
+}
+
+.usd {
+    margin-right: 120px;
+    margin-top: 50px;
+}
+
+.insipara1 {
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.inboxpoints {
+    font-size: 15px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.inboxbut-1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: rgba(240, 248, 255, 0);
+    background-color: rgb(0, 80, 80);
+    color: aliceblue;
+}
+
+.insidebox-2 {
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.insidebox-2 {
+    color: aliceblue;
+}
+
+.for29used {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.twonine {
+    color: rgb(3, 66, 66);
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 90px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+
+.usd2 {
+    margin-right: 120px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+
+.insipara2 {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.inboxpoints2 {
+    font-size: 15px;
+    text-align: center;
+    padding-top: 30px;
+    color: aliceblue;
+}
+
+.inboxbut-2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: rgba(240, 248, 255, 0);
+    color: rgb(0, 80, 80);
+    background-color: aliceblue;
+}
+
+
+
+
+.img-6 {
+    background-color: rgb(0, 80, 80);
+    height: 550px;
+    width: 1343px;
+}
+.pagelefbox{
+    height: 450px;
+    width: 450px;
+    background-color: rgba(127, 255, 212, 0);
+    margin-left: 100px;
+}
+.h1pag6{
+    color: aliceblue;
+    padding-top: 100px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pag6para1{
+    color: aliceblue;
+    font-size: 20px;
+}
+.pag6but{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: rgba(240, 248, 255, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 208, 0);
+}
+.pag6imgright{
+    height: 350px;
+    width: 280px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 350px;
+    margin-top: 70px;
+    padding-right: 70px;
+}
+.pag6small{
+    height: 60px;
+    width: 60px;
+    background-color:rgb(255, 208, 0);
+    border-radius: 350px;
+    margin-top: 70px;
+    margin-left:  -230px;
+}
+.pag6forboth{
+    display: flex;
+    justify-content: space-evenly;
+}
